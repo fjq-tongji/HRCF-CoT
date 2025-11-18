@@ -17,6 +17,74 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 - Created datasets [https://github.com/fjq-tongji/HRCF-CoT/tree/main/Annotation_results]
 
 ## :book: Model
-<img src="images/overall_framework.jpg" alt="Logo" width="800">
+<img src="images/overall-new8.jpg" alt="Logo" width="800">
 
+## :pill: Installation
+1. LLaVA: https://github.com/haotian-liu/LLaVA
+2. mPLUG-Owl: https://github.com/X-PLUG/mPLUG-Owl
+3. MiniGPT-4: https://github.com/Vision-CAIR/MiniGPT-4
+4. InternVL: https://github.com/OpenGVLab/InternVL
+5. BLIP-2: https://huggingface.co/Salesforce/blip2-flan-t5-xxl
+6. InstructBLIP: https://huggingface.co/Salesforce/instructblip-flan-t5-xxl
+7. RAM: https://github.com/xinyu1205/recognize-anything
+8. GroundingDINO: https://github.com/IDEA-Research/GroundingDINO
+
+
+## :star: Inference
+1. Download the traffic dataset from CODA website (https://coda-dataset.github.io);
+2. Generate question-answer pair using POPE code
+```
+$ python POPE codes/CODA2022/CODA2022_pope_random.json
+$ python POPE codes/CODA2022/CODA2022_pope_popular.json
+$ python POPE codes/CODA2022/CODA2022_pope_adversarial.json
+```
+3. Generate initial response for each image using specific LVLM, such as LLaVA-1.5, mPLUG-Owl.
+4. Generate refined response using HRCF-CoT framework: 
+```
+$ python 1.quen2_vl_initial_texts_CODA_1.py
+$ python 2.inference_text_critic_minicpm_o_2_6.py
+$ python 2.inference_text_critic_internvl_25.py
+$ python 2.inference_text_critic_ovis2.py
+$ python 3.inference_traffic_element_VQAs.py
+$ python 4.inference_text_integrate.py
+$ python 5.inference_scene_graph_generation.py
+$ python 6.inference_scene_graph_validation.py
+xxxxxxxxx
+```
+5. Evaluate the model under POPE benchmark.
+6. Generate more refined descriptions using nuScenes dataset.   
+
+
+
+
+
+
+
+
+
+
+
+## :trophy: Experimental Results
+### Quantitative results 
+
+
+### Qualitative results  
+<img src="images/hallucination_correction_cases-2.pdf" alt="Logo" width="700"> 
+<img src="images/corner_cases2.pdf" alt="Logo" width="700"> 
+
+
+## :sunflower: Acknowledgement
+This repository benefits from the following codes. Thanks for their awesome works.
+- [LLaVA](https://github.com/haotian-liu/LLaVA)
+- [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [InternVL](https://github.com/OpenGVLab/InternVL)
+- [BLIP-2](https://huggingface.co/Salesforce/blip2-flan-t5-xxl)
+- [InstructBLIP](https://huggingface.co/Salesforce/instructblip-flan-t5-xxl)(https://huggingface.co/Salesforce/instructblip-vicuna-13b)
+- [Woodpecker](https://github.com/BradyFU/Woodpecker)
+- [POPE](https://github.com/AoiDragon/POPE)
+- [RAM](https://github.com/xinyu1205/recognize-anything)
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+
+## :scroll: Citation
 
