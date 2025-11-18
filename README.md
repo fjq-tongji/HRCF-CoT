@@ -19,6 +19,15 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 ## :book: Model
 <img src="images/overall-new8.jpg" alt="Logo" width="800">
 
+## :date: Prompt
+### Module &num2;
+
+
+
+
+
+
+
 ## :pill: Installation
 1. LLaVA: https://github.com/haotian-liu/LLaVA
 2. mPLUG-Owl: https://github.com/X-PLUG/mPLUG-Owl
