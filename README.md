@@ -20,7 +20,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 <img src="images/overall-new8.jpg" alt="Logo" width="800">
 
 ## :date: Prompt
-### Module &num2;
+### Module &num2
 
 
 
