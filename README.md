@@ -10,11 +10,12 @@ Then, we design an element-aware question-answering module to extract diverse el
 After removing redundant contents, we leverage VLMs to construct graph-based scene representations, further deriving attribute-aware information for key objects.
 Extensive experiments on seven hallucination benchmarks demonstrate the effectiveness of our framework: hallucination rates of GPT-4o and DeepSeek-VL2 are reduced by 1.58% on POPE and 5.60% on Object HalBench, respectively. Furthermore, LLaVA-1.6 model achieves a 48.26% increase in detailness and a 53.25% improvement in richness score.
 
-If you have any question, please feel free to email fanjq@tongji.edu.cn.
+
 
 ## :fire: News
 - Video demo [https://github.com/fjq-tongji/HRCF-CoT/releases/tag/video]
 - Created datasets [https://github.com/fjq-tongji/HRCF-CoT/tree/main/Annotation_results]
+
 
 ## :book: Model
 <p align="center">
@@ -59,7 +60,7 @@ The detailed code for each module is shown in folder models.
 
 
 ## :trophy: Experimental Results
-### Results in Traffic Scenarios: three benchmarks
+### Results in Traffic Scenarios
 #### POPE Benchmark
 <p align="center">
   <img src="images/POPE.png" alt="Logo" width="800">  
@@ -75,7 +76,7 @@ The detailed code for each module is shown in folder models.
   <img src="images/GPT-4.png" alt="Logo" width="450">  
 <p align="center">
 
-### Results in General Scenarios: four benchmarks
+### Results in General Scenarios
 #### POPE Benchmark
 <p align="center">
   <img src="images/POPE_COCO.png" alt="Logo" width="450">  
