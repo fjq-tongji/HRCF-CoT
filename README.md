@@ -18,7 +18,7 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :book: Model
 <p align="center">
-  <img src="images/overall-new8.jpg" alt="Logo" width="800">
+  <img src="images/overall-new8.jpg" alt="Logo" width="1000">
 <p align="center">
 
 
