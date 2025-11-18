@@ -61,33 +61,33 @@ The detailed code for each module is shown in folder models.
 
 ## :trophy: Experimental Results
 ### Results in Traffic Scenarios
-#### POPE Benchmark
+#### POPE Benchmark:
 <p align="center">
   <img src="images/POPE.png" alt="Logo" width="800">  
 <p align="center">
   
-#### OpenCHAIR Benchmark
+#### OpenCHAIR Benchmark:
 <p align="center">
   <img src="images/OpenCHAIR.png" alt="Logo" width="800">  
 <p align="center">
   
-#### GPT-4 Evaluation Benchmark
+#### GPT-4 Evaluation Benchmark:
 <p align="center">
   <img src="images/GPT-4.png" alt="Logo" width="450">  
 <p align="center">
 
 ### Results in General Scenarios
-#### POPE Benchmark
+#### POPE Benchmark:
 <p align="center">
   <img src="images/POPE_COCO.png" alt="Logo" width="450">  
 <p align="center">
   
-#### Object HalBench & MMHal-Bench Benchmark
+#### Object HalBench & MMHal-Bench Benchmark:
 <p align="center">
   <img src="images/MMHal-Bench.png" alt="Logo" width="450">  
 <p align="center">
   
-#### AMBER Benchmark
+#### AMBER Benchmark:
 <p align="center">
   <img src="images/AMBER.png" alt="Logo" width="800">  
 <p align="center">
