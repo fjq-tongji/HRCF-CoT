@@ -19,18 +19,6 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 ## :book: Model
 <img src="images/overall-new8.jpg" alt="Logo" width="800">
 
-## :date: Prompt
-### Module ②：
-<img src="images/p2.jpg" alt="Logo" width="800">
-
-### Module ④：
-<img src="images/p4.jpg" alt="Logo" width="800">
-
-### Module ⑤：
-<img src="images/p5.jpg" alt="Logo" width="800">
-
-### Module ⑥：
-<img src="images/p6.jpg" alt="Logo" width="800">
 
 
 
@@ -95,6 +83,23 @@ The detailed code for each module is shown in folder models.
 ### Qualitative results  
 <img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="700"> 
 <img src="images/corner_cases2.jpg" alt="Logo" width="700"> 
+
+
+
+
+## :date: Prompt
+### Module ②：
+<img src="images/p2.jpg" alt="Logo" width="800">
+
+### Module ④：
+<img src="images/p4.jpg" alt="Logo" width="800">
+
+### Module ⑤：
+<img src="images/p5.jpg" alt="Logo" width="800">
+
+### Module ⑥：
+<img src="images/p6.jpg" alt="Logo" width="800">
+
 
 
 ## :sunflower: Acknowledgement
