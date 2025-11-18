@@ -17,8 +17,9 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 - Created datasets [https://github.com/fjq-tongji/HRCF-CoT/tree/main/Annotation_results]
 
 ## :book: Model
-<img src="images/overall-new8.jpg" alt="Logo" width="800">
-
+<p align="center">
+  <img src="images/overall-new8.jpg" alt="Logo" width="800">
+<p align="center">
 
 
 
@@ -60,46 +61,67 @@ The detailed code for each module is shown in folder models.
 ## :trophy: Experimental Results
 ### Results in Traffic Scenarios: three benchmarks
 #### POPE Benchmark
-<img src="images/POPE.png" alt="Logo" width="800">  
-
+<p align="center">
+  <img src="images/POPE.png" alt="Logo" width="800">  
+<p align="center">
+  
 #### OpenCHAIR Benchmark
-<img src="images/OpenCHAIR.png" alt="Logo" width="800">  
-
+<p align="center">
+  <img src="images/OpenCHAIR.png" alt="Logo" width="800">  
+<p align="center">
+  
 #### GPT-4 Evaluation Benchmark
-<img src="images/GPT-4.png" alt="Logo" width="450">  
-
+<p align="center">
+  <img src="images/GPT-4.png" alt="Logo" width="450">  
+<p align="center">
 
 ### Results in General Scenarios: four benchmarks
 #### POPE Benchmark
-<img src="images/POPE_COCO.png" alt="Logo" width="450">  
-
+<p align="center">
+  <img src="images/POPE_COCO.png" alt="Logo" width="450">  
+<p align="center">
+  
 #### Object HalBench & MMHal-Bench Benchmark
-<img src="images/MMHal-Bench.png" alt="Logo" width="450">  
-
+<p align="center">
+  <img src="images/MMHal-Bench.png" alt="Logo" width="450">  
+<p align="center">
+  
 #### AMBER Benchmark
-<img src="images/AMBER.png" alt="Logo" width="800">  
-
+<p align="center">
+  <img src="images/AMBER.png" alt="Logo" width="800">  
+<p align="center">
 
 ### Qualitative results  
-<img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="600"> 
-<img src="images/corner_cases2.jpg" alt="Logo" width="600"> 
+<p align="center">
+  <img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="450"> 
+<p align="center">
 
+<p align="center">
+  <img src="images/corner_cases2.jpg" alt="Logo" width="450"> 
+<p align="center">
 
 
 
 ## :date: Prompt
 ### Module ②：
-<img src="images/p2.jpg" alt="Logo" width="450">
-
+<p align="center">
+  <img src="images/p2.jpg" alt="Logo" width="450">
+<p align="center">
+  
 ### Module ④：
-<img src="images/p4.jpg" alt="Logo" width="450">
-
+<p align="center">
+  <img src="images/p4.jpg" alt="Logo" width="450">
+<p align="center">
+  
 ### Module ⑤：
-<img src="images/p5.jpg" alt="Logo" width="450">
-
+<p align="center">
+  <img src="images/p5.jpg" alt="Logo" width="450">
+<p align="center">
+  
 ### Module ⑥：
-<img src="images/p6.jpg" alt="Logo" width="450">
-
+<p align="center">
+  <img src="images/p6.jpg" alt="Logo" width="450">
+<p align="center">
 
 
 ## :sunflower: Acknowledgement
