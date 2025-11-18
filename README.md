@@ -66,39 +66,39 @@ The detailed code for each module is shown in folder models.
 <img src="images/OpenCHAIR.png" alt="Logo" width="800">  
 
 #### GPT-4 Evaluation Benchmark
-<img src="images/GPT-4.png" alt="Logo" width="800">  
+<img src="images/GPT-4.png" alt="Logo" width="450">  
 
 
 ### Results in General Scenarios: four benchmarks
 #### POPE Benchmark
-<img src="images/POPE_COCO.png" alt="Logo" width="800">  
+<img src="images/POPE_COCO.png" alt="Logo" width="450">  
 
 #### Object HalBench & MMHal-Bench Benchmark
-<img src="images/MMHal-Bench.png" alt="Logo" width="800">  
+<img src="images/MMHal-Bench.png" alt="Logo" width="450">  
 
 #### AMBER Benchmark
 <img src="images/AMBER.png" alt="Logo" width="800">  
 
 
 ### Qualitative results  
-<img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="700"> 
-<img src="images/corner_cases2.jpg" alt="Logo" width="700"> 
+<img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="600"> 
+<img src="images/corner_cases2.jpg" alt="Logo" width="600"> 
 
 
 
 
 ## :date: Prompt
 ### Module ②：
-<img src="images/p2.jpg" alt="Logo" width="700">
+<img src="images/p2.jpg" alt="Logo" width="450">
 
 ### Module ④：
-<img src="images/p4.jpg" alt="Logo" width="700">
+<img src="images/p4.jpg" alt="Logo" width="450">
 
 ### Module ⑤：
-<img src="images/p5.jpg" alt="Logo" width="700">
+<img src="images/p5.jpg" alt="Logo" width="450">
 
 ### Module ⑥：
-<img src="images/p6.jpg" alt="Logo" width="700">
+<img src="images/p6.jpg" alt="Logo" width="450">
 
 
 
