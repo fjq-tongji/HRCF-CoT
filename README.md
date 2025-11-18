@@ -69,8 +69,8 @@ xxxxxxxxx
 
 
 ### Qualitative results  
-<img src="images/hallucination_correction_cases-2.pdf" alt="Logo" width="700"> 
-<img src="images/corner_cases2.pdf" alt="Logo" width="700"> 
+<img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="700"> 
+<img src="images/corner_cases2.jpg" alt="Logo" width="700"> 
 
 
 ## :sunflower: Acknowledgement
