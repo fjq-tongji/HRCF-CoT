@@ -55,7 +55,7 @@ The detailed code for each module is shown in folder models.
 
 
 ## :trophy: Experimental Results
-### Results in Traffic Scenarios
+### Results in Traffic Scenarios: three benchmarks
 #### POPE Benchmark
 <img src="images/POPE.png" alt="Logo" width="800">  
 
@@ -66,7 +66,10 @@ The detailed code for each module is shown in folder models.
 <img src="images/GPT-4.png" alt="Logo" width="800">  
 
 
-### Results in General Scenarios
+### Results in General Scenarios: four benchmarks
+#### POPE Benchmark
+<img src="images/POPE_COCO.png" alt="Logo" width="800">  
+
 #### Object HalBench & MMHal-Bench Benchmark
 <img src="images/MMHal-Bench.png" alt="Logo" width="800">  
 
