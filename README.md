@@ -20,11 +20,17 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 <img src="images/overall-new8.jpg" alt="Logo" width="800">
 
 ## :date: Prompt
-### Module ②
+### Module ②：
+<img src="images/p2.jpg" alt="Logo" width="800">
 
+### Module ④：
+<img src="images/p4.jpg" alt="Logo" width="800">
 
+### Module ⑤：
+<img src="images/p5.jpg" alt="Logo" width="800">
 
-
+### Module ⑥：
+<img src="images/p6.jpg" alt="Logo" width="800">
 
 
 
@@ -84,17 +90,6 @@ The detailed code for each module is shown in folder models.
 
 #### AMBER Benchmark
 <img src="images/AMBER.png" alt="Logo" width="800">  
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Qualitative results  
