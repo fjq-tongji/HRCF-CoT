@@ -13,7 +13,7 @@ Extensive experiments on seven hallucination benchmarks demonstrate the effectiv
 If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :fire: News
-- Video demo [https://github.com/fjq-tongji/HCOENet/releases/download/demo/Video.Demo.mp4]
-- CODA_desc_dataset_texts_9263.rar and nuScenes_desc_dataset_texts_33084.rar are the created datasets.  
+- Video demo [https://github.com/fjq-tongji/HRCF-CoT/releases/tag/video]
+- Created datasets []
 
 
