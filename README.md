@@ -93,10 +93,12 @@ The detailed code for each module is shown in folder models.
 <p align="center">
 
 ### Qualitative results  
+#### Results of Hallucination Correction and Element Compensation:
 <p align="center">
   <img src="images/fig-6.png" alt="Logo" width="450"> 
 <p align="center">
 
+#### Results of Hallucination Correction and Scene Graph Generation in Corner-Case Senarios:
 <p align="center">
   <img src="images/fig-8.png" alt="Logo" width="450"> 
 <p align="center">
