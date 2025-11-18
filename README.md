@@ -93,11 +93,11 @@ The detailed code for each module is shown in folder models.
 
 ### Qualitative results  
 <p align="center">
-  <img src="images/hallucination_correction_cases-2.jpg" alt="Logo" width="450"> 
+  <img src="images/fig-6.jpg" alt="Logo" width="450"> 
 <p align="center">
 
 <p align="center">
-  <img src="images/corner_cases2.jpg" alt="Logo" width="450"> 
+  <img src="images/fig-8.jpg" alt="Logo" width="450"> 
 <p align="center">
 
 
