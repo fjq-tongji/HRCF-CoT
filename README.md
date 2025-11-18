@@ -28,6 +28,11 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 6. InstructBLIP: https://huggingface.co/Salesforce/instructblip-flan-t5-xxl
 7. RAM: https://github.com/xinyu1205/recognize-anything
 8. GroundingDINO: https://github.com/IDEA-Research/GroundingDINO
+9. Qwen2-VL: https://github.com/QwenLM/Qwen3-VL
+10. MiniCPM-o: https://github.com/OpenBMB/MiniCPM
+11. InternVL2.5: https://github.com/OpenGVLab/InternVL
+12. Ovis2: https://github.com/AIDC-AI/Ovis
+13. GLM-4V: https://huggingface.co/zai-org/glm-4v-9b
 
 
 ## :star: Inference
@@ -49,15 +54,35 @@ $ python vis_corrector_recap_w.py
 The detailed code for each module is shown in folder models. 
 
 
-
-
-
-
-
-
-
 ## :trophy: Experimental Results
-### Quantitative results 
+### Results in Traffic Scenarios
+#### POPE Benchmark
+<img src="images/POPE.png" alt="Logo" width="800">  
+
+#### OpenCHAIR Benchmark
+<img src="images/OpenCHAIR.png" alt="Logo" width="800">  
+
+#### GPT-4 Evaluation Benchmark
+<img src="images/GPT-4.png" alt="Logo" width="800">  
+
+
+### Results in General Scenarios
+#### Object HalBench & MMHal-Bench Benchmark
+<img src="images/MMHal-Bench.png" alt="Logo" width="800">  
+
+#### AMBER Benchmark
+<img src="images/AMBER.png" alt="Logo" width="800">  
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Qualitative results  
