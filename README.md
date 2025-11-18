@@ -14,6 +14,9 @@ If you have any question, please feel free to email fanjq@tongji.edu.cn.
 
 ## :fire: News
 - Video demo [https://github.com/fjq-tongji/HRCF-CoT/releases/tag/video]
-- Created datasets []
+- Created datasets [https://github.com/fjq-tongji/HRCF-CoT/tree/main/Annotation_results]
+
+## :book: Model
+<img src="images/overall_framework.jpg" alt="Logo" width="800">
 
 
